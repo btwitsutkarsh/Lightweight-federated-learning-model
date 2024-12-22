@@ -1,0 +1,8 @@
+Round 1 Summary
+==================================================
+Global Model Accuracy: 90.14%
+Global Model Loss: 0.0592
+
+Client Accuracies:
+Client 0: 97.21%
+Client 1: 97.25%
